@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/18 16:29:35.000.373,=C:\Users\javik\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/18 16:32:10.000.713,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\U_GESTION_CONTACTO.dfm=C:\Users\javik\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/18 16:32:10.000.713,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\U_GESTION_CONTACTO.pas=C:\Users\javik\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/18 16:32:20.000.674,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\APP_CONTACTOS.dproj=C:\Users\javik\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/18 16:38:18.000.634,=C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\Unit1.pas</Transaction>
+    <Transaction>2022/11/18 16:39:35.000.840,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\U_CONTACTO_DETALLE.pas=C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\Unit1.pas</Transaction>
+    <Transaction>2022/11/18 16:39:35.000.840,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\U_CONTACTO_DETALLE.dfm=C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\Unit1.dfm</Transaction>
+    <Transaction>2022/11/19 15:09:18.000.074,=C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\Unit1.pas</Transaction>
+    <Transaction>2022/11/19 15:11:48.000.696,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\Unit1.dfm=C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\U_MENU.dfm</Transaction>
+    <Transaction>2022/11/19 15:11:48.000.696,C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\Unit1.pas=C:\Users\javik\OneDrive\Desktop\APP_CONTACTOS\U_MENU.pas</Transaction>
+  </Transactions>
+</BorlandProject>
